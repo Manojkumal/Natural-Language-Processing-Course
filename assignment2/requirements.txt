@@ -1,0 +1,6 @@
+  torch
+  defaults
+  numpy
+  tqdm
+  docopt
+  torchvision
